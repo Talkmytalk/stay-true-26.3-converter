@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.zip
+*.jar
+*.png
+*.report.json
+.venv/
